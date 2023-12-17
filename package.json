@@ -1,7 +1,7 @@
 {
   "name": "100algorithmschallenge",
   "version": "1.0.0",
-  "description": "<a href='https://www.YouTube.com/CodingTutorials360'>Check Out My YouTube Channel </a>",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest --watch",
